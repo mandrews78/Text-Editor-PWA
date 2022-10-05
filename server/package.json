@@ -1,11 +1,7 @@
 {
-    "name": "text-editor",
+    "name": "JATE",
     "version": "1.0.0",
-    "engines:": {
-        "node": "^16.12.0",
-        "npm": "8.19.2"
-    },
-    "description": "Just Another text editor",
+    "description": "",
     "main": "server.js",
     "scripts": {
         "server": "nodemon server.js --ignore client"
