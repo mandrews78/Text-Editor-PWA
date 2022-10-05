@@ -5,7 +5,7 @@
         "node": "^16.12.0",
         "npm": "8.19.2"
     },
-    "description": "Another text editor",
+    "description": "Just Another text editor",
     "main": "server.js",
     "scripts": {
         "server": "nodemon server.js --ignore client"
